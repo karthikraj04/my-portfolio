@@ -4,4 +4,5 @@
 
 [build.environment]
   NODE_VERSION = "18.19.0"
-  NPM_FLAGS = "--legacy-peer-deps"
+  NPM_VERSION = "10.2.5"
+  YARN_VERSION = "1.22.22"
